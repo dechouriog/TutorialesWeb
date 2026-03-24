@@ -64,7 +64,7 @@ function formatToCOP(price: number): string {
                 </div>
 
                 <div class="flex justify-between">
-                  <span class="text-gray-600">Category:</span>
+                  <span class="text-gray-600">Category:</span>git branch -M main
                   <span class="font-medium">{{ book.category }}</span>
                 </div>
 
